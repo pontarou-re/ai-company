@@ -1,0 +1,16 @@
+{
+  "name": "ai-company",
+  "version": "1.0.0",
+  "description": "AI仮想カンパニー — 秘書+リサーチ+レビューのPDCAで業務を回すClaude Codeプラグイン",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontarou-re/ai-company.git"
+  },
+  "author": "pontarou-re",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pontarou-re/ai-company/issues"
+  },
+  "homepage": "https://github.com/pontarou-re/ai-company#readme"
+}

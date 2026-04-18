@@ -1,0 +1,24 @@
+{
+  "name": "ai-company",
+  "owner": {
+    "name": "pontarou-re"
+  },
+  "metadata": {
+    "description": "AI仮想カンパニー — 秘書+リサーチ+レビューのPDCAで業務を回すプラグイン"
+  },
+  "plugins": [
+    {
+      "name": "company",
+      "source": "./plugins/company",
+      "description": "AI仮想カンパニースキル。秘書室+リサーチ部門+レビュー部門のPDCAサイクルで、1人で組織的に業務を回す。業種別テンプレート付き。",
+      "version": "1.0.0",
+      "author": {
+        "name": "pontarou-re"
+      },
+      "repository": "https://github.com/pontarou-re/ai-company",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["company", "organization", "secretary", "research", "review", "pdca", "productivity"]
+    }
+  ]
+}
