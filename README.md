@@ -71,8 +71,16 @@ Claude Code上に仮想組織を構築し、秘書が窓口となって業務を
 
 ## インストール
 
+Claude Codeを起動した状態で、以下の2ステップを実行してください。
+
+**Step 1: マーケットプレイスを追加**
 ```
-claude plugin add github:pontarou-re/ai-company
+/plugin marketplace add pontarou-re/ai-company
+```
+
+**Step 2: プラグインをインストール**
+```
+/plugin install company@pontarou-re-ai-company
 ```
 
 ## クイックスタート
