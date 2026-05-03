@@ -80,7 +80,7 @@ Claude Codeを起動した状態で、以下の2ステップを実行してく�
 
 **Step 2: プラグインをインストール**
 ```
-/plugin install company@pontarou-re-ai-company
+/plugin install company@ai-company
 ```
 
 ## クイックスタート
